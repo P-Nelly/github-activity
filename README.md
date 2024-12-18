@@ -60,6 +60,7 @@ GitHub Activity is a command-line interface tool that fetches and displays recen
 ```sh
 └── github-activity/
     ├── LICENSE
+    ├── README.md
     └── main.py
 ```
 
@@ -178,8 +179,11 @@ This project is protected under the [MIT License](https://choosealicense.com/lic
 
 ---
 
-##  Acknowledgments
+## Project
 
-- List any resources, contributors, inspiration, etc. here.
+This project was made for roadmap.sh
+
+https://roadmap.sh/projects/github-user-activity
 
 ---
+
