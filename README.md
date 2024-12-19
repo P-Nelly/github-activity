@@ -18,7 +18,7 @@
 </div>
 <br clear="right">
 
-##  Table of Contents
+## Table of Contents
 
 - [ Overview](#-overview)
 - [ Features](#-features)
@@ -36,13 +36,13 @@
 
 ---
 
-##  Overview
+## Overview
 
 GitHub Activity is a command-line interface tool that fetches and displays recent GitHub activities for any specified user. It shows various events including pushes, issue interactions, and repository stars in a clean, readable format.
 
 ---
 
-##  Features
+## Features
 
 - 🔍 Fetch recent GitHub activity for any user
 - 📊 Display multiple event types:
@@ -55,7 +55,7 @@ GitHub Activity is a command-line interface tool that fetches and displays recen
 
 ---
 
-##  Project Structure
+## Project Structure
 
 ```sh
 └── github-activity/
