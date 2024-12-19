@@ -20,7 +20,7 @@
 
 ## Table of Contents
 
-- [ Overview](#-overview)
+- [ Overview](##-overview)
 - [ Features](#-features)
 - [ Project Structure](#-project-structure)
   - [ Project Index](#-project-index)
