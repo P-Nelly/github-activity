@@ -61,6 +61,7 @@ GitHub Activity is a command-line interface tool that fetches and displays recen
 └── github-activity/
     ├── LICENSE
     ├── README.md
+    ├── CONTRIBUTING.md
     └── main.py
 ```
 
